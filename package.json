@@ -1,0 +1,26 @@
+{
+  "name": "react-quiz",
+  "version": "1.0.0",
+  "description": "simple Quiz App",
+  "main": "index.js",
+  "devDependencies": {
+    "babel-core": "5.8.*",
+    "babel-loader": "5.3.*",
+    "webpack": "1.12.*"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Quiz",
+    "demo",
+    "App",
+    "React"
+  ],
+  "author": "Akhilesh Vemperala",
+  "license": "ISC"
+}
